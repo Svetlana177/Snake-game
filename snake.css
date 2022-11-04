@@ -1,0 +1,11 @@
+body {
+ background: lightgrey;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-direction: column;
+}
+
+canvas {
+ border: 10px solid white;
+}
